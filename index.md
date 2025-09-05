@@ -2,6 +2,11 @@
 - Use of practical tools like Git.
 - Student taught so its relaxed and approachable.
 - Short, easy to follow weekly lectures.
+
+_I wanted to use the italics test and try it._
+**First time using GitHub and its actually pretty nice**
+
+![Mission Impossible](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS9ZaOEXjFNO-srX5kz05It0lol043jFUMZQ6ufhiWL8g3VU7kM)
 ```markdown
 Syntax highlighted code block
 
@@ -26,6 +31,3 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kalutes/CS193_Fall18_Lab1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
