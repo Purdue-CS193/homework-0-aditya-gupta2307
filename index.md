@@ -1,9 +1,7 @@
-# Welcome to GitHub Pages
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+# Aditya Gupta's First CS193 Homework
+- Use of practical tools like Git.
+- Student taught so its relaxed and approachable.
+- Short, easy to follow weekly lectures.
 ```markdown
 Syntax highlighted code block
 
