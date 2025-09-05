@@ -3,9 +3,9 @@
 - Student taught so its relaxed and approachable.
 - Short, easy to follow weekly lectures.
 
-_I wanted to use the italics test and try it._
+_First Homework_
 
-**First time using GitHub and its actually pretty nice**
+**CS193**
 
 ![Mission Impossible](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS9ZaOEXjFNO-srX5kz05It0lol043jFUMZQ6ufhiWL8g3VU7kM)
 ```markdown
